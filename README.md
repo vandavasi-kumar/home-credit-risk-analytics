@@ -164,4 +164,4 @@ The dashboard consists of 10 dedicated analytical pages accessible via the sideb
 
 ## Author
 
-**Project Author**
+**Kumar Vandavasi**
